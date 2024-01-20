@@ -28,7 +28,7 @@ Make sure you have python 3.7+ installed on your machine.
     Before running the application, make sure to set up the following environment variables. You can create a `.env` file in the root directory of your project and add the necessary values.
 
     ```env
-    DATABASE_URL=mysql://sql11676445:ugI361zcup@sql11.freemysqlhosting.net:3306/sql11676445
+    DATABASE_URL=mysql://sql11678285:hzYZF62S7D@sql11.freemysqlhosting.net:3306/sql11678285
     ```
 
     That is the connection URL for your MySQL database. Ensure it includes the correct credentials, host, port, and database name.
